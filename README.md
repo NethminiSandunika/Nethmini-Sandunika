@@ -1,2 +1,2 @@
-# Nethmini-Sandunika
+# About me
 My personal repository
